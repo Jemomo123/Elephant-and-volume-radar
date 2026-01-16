@@ -1,5 +1,5 @@
-ccxt>=4.2.0
-pandas>=2.0.0
-pandas-ta==0.3.14b0
-streamlit>=1.30.0
-streamlit-autorefresh==0.0.1
+streamlit
+ccxt
+pandas
+pandas-ta>=0.3.14b
+streamlit-autorefresh
