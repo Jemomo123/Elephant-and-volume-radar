@@ -3,9 +3,6 @@ primaryColor = "#00FF85"
 backgroundColor = "#0D1117"
 secondaryBackgroundColor = "#161B22"
 textColor = "#E6EDF3"
-font = "sans serif"
 
 [server]
 headless = true
-enableCORS = false
-enableXsrfProtection = false
